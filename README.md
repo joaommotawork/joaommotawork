@@ -43,8 +43,6 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
---
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="hhttps://github-readme-stats.vercel.app/api?username=joaommotawork&count_private=true&show_icons=true" />
 </a>
