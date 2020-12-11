@@ -1,4 +1,4 @@
-### HI, I'M JOÃO MOTA
+## HI, I'M JOÃO MOTA
 
 [![Website](https://img.shields.io/website?label=joaommota.com&style=for-the-badge&url=https%3A%2F%2Fjoaommota.com)](https://joaommota.com)
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-### SOCIAL NETWORKS
+## SOCIAL NETWORKS
 
 [<img align="left" alt="joaommota.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="joaommota | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -15,7 +15,7 @@
 
 <br />
 
-### LANGUAGES AND TOOLS
+## LANGUAGES AND TOOLS
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,7 +39,7 @@
 
 ---
 
-### RECENT GITHUB ACTIVITY
+## RECENT GITHUB ACTIVITY
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
