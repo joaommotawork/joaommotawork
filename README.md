@@ -38,8 +38,7 @@
 
 --
 
-## RECENT GITHUB ACTIVITY
-
+<!-- ## RECENT GITHUB ACTIVITY -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
