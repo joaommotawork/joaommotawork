@@ -7,7 +7,6 @@
 <br />
 
 ![Curriculum Vitae Dark Front](/images/CVENDarkFront.jpg)
-Format: ![Curriculum Vitae Dark Front]
 
 <!-- ## RECENT GITHUB ACTIVITY -->
 <!--START_SECTION:activity-->
