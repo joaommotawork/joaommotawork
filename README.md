@@ -6,7 +6,9 @@
 
 <br />
 
-![Curriculum Vitae Dark Front](/images/CVENDarkFront.jpg)
+[<img align="center" alt="joaommota | CV" width="100%" src="https://github.com/joaommotawork/joaommotawork/blob/main/images/CVENDarkFront.jpg" />]
+
+<br />
 
 <!-- ## RECENT GITHUB ACTIVITY -->
 <!--START_SECTION:activity-->
