@@ -6,7 +6,7 @@
 
 <br />
 
-<img align="center" alt="joaommota | CV" width="100%" src="https://github.com/joaommotawork/joaommotawork/blob/main/images/CVENDarkFront.jpg" />
+<img align="center" alt="joaommota | CV" width="500px" src="https://github.com/joaommotawork/joaommotawork/blob/main/images/CVENDarkFront.jpg" />
 
 <br />
 
